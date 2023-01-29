@@ -2,9 +2,9 @@ package grpc
 
 import (
 	"fmt"
-	"github.com/huseyinbabal/microservices-proto/golang/order"
-	"github.com/huseyinbabal/microservices/order/config"
-	"github.com/huseyinbabal/microservices/order/internal/ports"
+	"github.com/gilxa1226/microservices-proto/golang/order"
+	"github.com/gilxa1226/microservices/order/config"
+	"github.com/gilxa1226/microservices/order/internal/ports"
 	"google.golang.org/grpc/reflection"
 	"log"
 	"net"
